@@ -1,3 +1,8 @@
+imprimir
 inserir yaning
 remover um
 buscar kitsch
+remover dive
+buscar dive
+buscar yaning
+imprimir
