@@ -1,8 +1,0 @@
-imprimir
-inserir laranja
-remover ar
-buscar zebra
-remover sapo
-buscar xicara
-buscar jogo
-imprimir
