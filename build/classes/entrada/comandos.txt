@@ -1,8 +1,8 @@
 imprimir
-inserir yaning
-remover um
-buscar kitsch
-remover dive
-buscar dive
-buscar yaning
+inserir laranja
+remover ar
+buscar zebra
+remover sapo
+buscar xicara
+buscar jogo
 imprimir
