@@ -9,9 +9,9 @@ o simulador da Árvore Trie possue as funções base(inserção, pesquisa e remo
 2 - no arquivo texto "palavras.txt", presente na pasta "entrada", estão presentes as palavras que serão carregadas na estrutura;
 
 3 - no arquivo "comandos.txt", presente na pasta "entrada", estão presentes os comandos a serem executados, para as operações base:
-	inserir palavra_escolhida
-	buscar palavra_escolhida
-	remover palavra_escolhida
-	imprimir
+	<br>inserir palavra_escolhida
+	<br>buscar palavra_escolhida
+	<br>remover palavra_escolhida
+	<br>imprimir
 
 4 - no prompt digite: java -jar KaillaneMartins_ATV05_ArvoreTrie.jar para executar o projeto;
